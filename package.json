@@ -1,0 +1,19 @@
+{
+  "name": "bottwitter",
+  "version": "1.0.0",
+  "description": "Sebuah BOT Twitter dengan menggunakan NodeJS",
+  "main": "index.js",
+  "dependencies": {},
+  "devDependencies": {},
+  "scripts": {
+    "test": "node index.js"
+  },
+  "keywords": [
+    "NodeJs",
+    "Twitter",
+    "Twitter",
+    "Bot"
+  ],
+  "author": "Rizal Muhammad (@bukanijang)",
+  "license": "ISC"
+}
